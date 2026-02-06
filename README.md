@@ -72,7 +72,7 @@ I'm especially interested in:
 - Payment security research  
 
 📫 Reach me: wondifraw.emiru@gmail.com  
-🔗 [LinkedIn]https://www.linkedin.com/in/wondifraw-emiru-9a61a9312  
+🔗 [LinkedIn]https://www.linkedin.com/in/wondifraw-emiru 
 
 ![POS Transaction Flow](https://via.placeholder.com/800x400?text=Android+POS+Architecture+Diagram)  
 *Sample architecture of my EMV payment flow implementation*
