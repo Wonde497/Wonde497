@@ -74,5 +74,5 @@ I'm especially interested in:
 📫 Reach me: wondifraw.emiru@gmail.com  
 🔗 [LinkedIn]https://www.linkedin.com/in/wondifraw-emiru-9a61a9312
 
-![POS Transaction Flow](https://drive.google.com/file/d/1QfJ5-fbchgbK_-nezU-EQ-MVsIS4irP_/view?usp=drive_link)  
+![POS Transaction Flow](https://drive.google.com/file/d/1QfJ5-fbchgbK_-nezU-EQ-MVsIS4irP_/view?usp=sharing)  
 *Sample architecture of my EMV payment flow implementation*
